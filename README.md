@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">Dev from Poland. Educator and game dev hobbyist.</h3>
+<h3 align="center"> .NET Dev from Poland. Educator and game dev hobbyist.</h3>
 
 <h4 align="left">I've spent most of my professional life as a tech educator, working with people and helping them learn and grow as a future devs.
 <br> 
